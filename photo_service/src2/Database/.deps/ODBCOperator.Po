@@ -1,0 +1,1 @@
+ODBCOperator.o ODBCOperator.o: ODBCOperator.cpp
